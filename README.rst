@@ -1,6 +1,8 @@
-==============================================================================================================
-SPICED: **S**ecure **P**rivate **I**ssue **T**racking and **C**olaborative **E**nvironment for **D**evelopment
-==============================================================================================================
+======
+SPICED
+======
+
+Secure Private Issue Tracking and Colaborative Environment for Development
 
 A web application for private or public integrated development of software
 projects. Specifically it ingtegrates source/version control, issue tracking,
